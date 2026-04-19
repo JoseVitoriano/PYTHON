@@ -1,2 +1,2 @@
 
-cpu = randint(1,10)
+print('Analisando, Aguarde ...')
